@@ -11,13 +11,13 @@ It contains approximately 300,000 pupils. The dataset has been fully anonymised,
 
 CB_FDM_Education	build date: 2023-05-04	
 
-Observation Period Dates:1995-09-01	to	2020-08-31
+Observation Period Dates:1995-09-01	to	2020-08-31 
 
 
 # Education
 The Education FDM is made up of 35 source table (summarised below and data dictionaries linked) from routinely collected data for 1,185,326  individuals and their routinely collected clinical data. 
 
-The source tables are largely populated by fields with the tbl_ where there is a person and a start and end date, and cb_ where there is no identifiable person, these are typically lookups.
+The source tables are where possible as supplied by the Department for Education. We are in the process of adding new records from a recent extract that will bring the database up to end of 2023 school term. 
 
 ### Standard FDM tables included in this dataset*
 person.
